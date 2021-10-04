@@ -1,0 +1,2 @@
+# Customer-Purchase-Intent-Prediction
+Research thesis and project using advanced analytics tools and implementing Machine Learning algorithms that predict purchase intention of customer in online shopping using customer behavioral analysis. • Developed a data driven framework for predicting whether a customer is going to make a specific purchase in the near future or not and a accuracy of 90% was acheived. • Advisor: Prof.Srinivasan K
